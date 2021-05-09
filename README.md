@@ -1,5 +1,3 @@
 # WebBook-vue-components
 
-> Demo of hijacking the Webpack config of Storybook so to create vue components for Bootstrap pattern library projects
-
-This also doubles as module which can be imported into app builds
+> Demo of hijacking the Webpack config of Storybook so to create vue components which can then be imported as a package into other projects
